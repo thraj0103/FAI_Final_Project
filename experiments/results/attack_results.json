@@ -1,0 +1,1010 @@
+{
+  "0.01": [
+    {
+      "original": 8,
+      "adversarial": 6,
+      "suppressed": 2
+    },
+    {
+      "original": 6,
+      "adversarial": 5,
+      "suppressed": 1
+    },
+    {
+      "original": 8,
+      "adversarial": 7,
+      "suppressed": 1
+    },
+    {
+      "original": 8,
+      "adversarial": 8,
+      "suppressed": 0
+    },
+    {
+      "original": 13,
+      "adversarial": 13,
+      "suppressed": 0
+    },
+    {
+      "original": 10,
+      "adversarial": 10,
+      "suppressed": 0
+    },
+    {
+      "original": 9,
+      "adversarial": 9,
+      "suppressed": 0
+    },
+    {
+      "original": 9,
+      "adversarial": 7,
+      "suppressed": 2
+    },
+    {
+      "original": 9,
+      "adversarial": 9,
+      "suppressed": 0
+    },
+    {
+      "original": 7,
+      "adversarial": 7,
+      "suppressed": 0
+    },
+    {
+      "original": 7,
+      "adversarial": 7,
+      "suppressed": 0
+    },
+    {
+      "original": 8,
+      "adversarial": 6,
+      "suppressed": 2
+    },
+    {
+      "original": 6,
+      "adversarial": 6,
+      "suppressed": 0
+    },
+    {
+      "original": 7,
+      "adversarial": 7,
+      "suppressed": 0
+    },
+    {
+      "original": 6,
+      "adversarial": 6,
+      "suppressed": 0
+    },
+    {
+      "original": 7,
+      "adversarial": 6,
+      "suppressed": 1
+    },
+    {
+      "original": 4,
+      "adversarial": 4,
+      "suppressed": 0
+    },
+    {
+      "original": 5,
+      "adversarial": 5,
+      "suppressed": 0
+    },
+    {
+      "original": 6,
+      "adversarial": 6,
+      "suppressed": 0
+    },
+    {
+      "original": 7,
+      "adversarial": 6,
+      "suppressed": 1
+    },
+    {
+      "original": 7,
+      "adversarial": 6,
+      "suppressed": 1
+    },
+    {
+      "original": 6,
+      "adversarial": 5,
+      "suppressed": 1
+    },
+    {
+      "original": 8,
+      "adversarial": 6,
+      "suppressed": 2
+    },
+    {
+      "original": 14,
+      "adversarial": 12,
+      "suppressed": 2
+    },
+    {
+      "original": 14,
+      "adversarial": 12,
+      "suppressed": 2
+    },
+    {
+      "original": 6,
+      "adversarial": 5,
+      "suppressed": 1
+    },
+    {
+      "original": 8,
+      "adversarial": 8,
+      "suppressed": 0
+    },
+    {
+      "original": 15,
+      "adversarial": 14,
+      "suppressed": 1
+    },
+    {
+      "original": 12,
+      "adversarial": 12,
+      "suppressed": 0
+    },
+    {
+      "original": 10,
+      "adversarial": 10,
+      "suppressed": 0
+    },
+    {
+      "original": 12,
+      "adversarial": 10,
+      "suppressed": 2
+    },
+    {
+      "original": 12,
+      "adversarial": 10,
+      "suppressed": 2
+    },
+    {
+      "original": 13,
+      "adversarial": 12,
+      "suppressed": 1
+    },
+    {
+      "original": 12,
+      "adversarial": 11,
+      "suppressed": 1
+    },
+    {
+      "original": 9,
+      "adversarial": 8,
+      "suppressed": 1
+    },
+    {
+      "original": 9,
+      "adversarial": 7,
+      "suppressed": 2
+    },
+    {
+      "original": 9,
+      "adversarial": 8,
+      "suppressed": 1
+    },
+    {
+      "original": 13,
+      "adversarial": 12,
+      "suppressed": 1
+    },
+    {
+      "original": 14,
+      "adversarial": 13,
+      "suppressed": 1
+    },
+    {
+      "original": 12,
+      "adversarial": 11,
+      "suppressed": 1
+    },
+    {
+      "original": 5,
+      "adversarial": 5,
+      "suppressed": 0
+    },
+    {
+      "original": 6,
+      "adversarial": 6,
+      "suppressed": 0
+    },
+    {
+      "original": 10,
+      "adversarial": 8,
+      "suppressed": 2
+    },
+    {
+      "original": 7,
+      "adversarial": 7,
+      "suppressed": 0
+    },
+    {
+      "original": 5,
+      "adversarial": 4,
+      "suppressed": 1
+    },
+    {
+      "original": 8,
+      "adversarial": 6,
+      "suppressed": 2
+    },
+    {
+      "original": 10,
+      "adversarial": 8,
+      "suppressed": 2
+    },
+    {
+      "original": 11,
+      "adversarial": 10,
+      "suppressed": 1
+    },
+    {
+      "original": 14,
+      "adversarial": 13,
+      "suppressed": 1
+    },
+    {
+      "original": 10,
+      "adversarial": 9,
+      "suppressed": 1
+    }
+  ],
+  "0.04": [
+    {
+      "original": 8,
+      "adversarial": 3,
+      "suppressed": 5
+    },
+    {
+      "original": 6,
+      "adversarial": 4,
+      "suppressed": 2
+    },
+    {
+      "original": 8,
+      "adversarial": 5,
+      "suppressed": 3
+    },
+    {
+      "original": 8,
+      "adversarial": 7,
+      "suppressed": 1
+    },
+    {
+      "original": 13,
+      "adversarial": 8,
+      "suppressed": 5
+    },
+    {
+      "original": 10,
+      "adversarial": 9,
+      "suppressed": 1
+    },
+    {
+      "original": 9,
+      "adversarial": 7,
+      "suppressed": 2
+    },
+    {
+      "original": 9,
+      "adversarial": 6,
+      "suppressed": 3
+    },
+    {
+      "original": 9,
+      "adversarial": 7,
+      "suppressed": 2
+    },
+    {
+      "original": 7,
+      "adversarial": 6,
+      "suppressed": 1
+    },
+    {
+      "original": 7,
+      "adversarial": 6,
+      "suppressed": 1
+    },
+    {
+      "original": 8,
+      "adversarial": 6,
+      "suppressed": 2
+    },
+    {
+      "original": 6,
+      "adversarial": 6,
+      "suppressed": 0
+    },
+    {
+      "original": 7,
+      "adversarial": 7,
+      "suppressed": 0
+    },
+    {
+      "original": 6,
+      "adversarial": 5,
+      "suppressed": 1
+    },
+    {
+      "original": 7,
+      "adversarial": 5,
+      "suppressed": 2
+    },
+    {
+      "original": 4,
+      "adversarial": 4,
+      "suppressed": 0
+    },
+    {
+      "original": 5,
+      "adversarial": 5,
+      "suppressed": 0
+    },
+    {
+      "original": 6,
+      "adversarial": 6,
+      "suppressed": 0
+    },
+    {
+      "original": 7,
+      "adversarial": 5,
+      "suppressed": 2
+    },
+    {
+      "original": 7,
+      "adversarial": 5,
+      "suppressed": 2
+    },
+    {
+      "original": 6,
+      "adversarial": 4,
+      "suppressed": 2
+    },
+    {
+      "original": 8,
+      "adversarial": 4,
+      "suppressed": 4
+    },
+    {
+      "original": 14,
+      "adversarial": 9,
+      "suppressed": 5
+    },
+    {
+      "original": 14,
+      "adversarial": 7,
+      "suppressed": 7
+    },
+    {
+      "original": 6,
+      "adversarial": 5,
+      "suppressed": 1
+    },
+    {
+      "original": 8,
+      "adversarial": 6,
+      "suppressed": 2
+    },
+    {
+      "original": 15,
+      "adversarial": 12,
+      "suppressed": 3
+    },
+    {
+      "original": 12,
+      "adversarial": 10,
+      "suppressed": 2
+    },
+    {
+      "original": 10,
+      "adversarial": 9,
+      "suppressed": 1
+    },
+    {
+      "original": 12,
+      "adversarial": 10,
+      "suppressed": 2
+    },
+    {
+      "original": 12,
+      "adversarial": 10,
+      "suppressed": 2
+    },
+    {
+      "original": 13,
+      "adversarial": 10,
+      "suppressed": 3
+    },
+    {
+      "original": 12,
+      "adversarial": 12,
+      "suppressed": 0
+    },
+    {
+      "original": 9,
+      "adversarial": 7,
+      "suppressed": 2
+    },
+    {
+      "original": 9,
+      "adversarial": 7,
+      "suppressed": 2
+    },
+    {
+      "original": 9,
+      "adversarial": 8,
+      "suppressed": 1
+    },
+    {
+      "original": 13,
+      "adversarial": 11,
+      "suppressed": 2
+    },
+    {
+      "original": 14,
+      "adversarial": 11,
+      "suppressed": 3
+    },
+    {
+      "original": 12,
+      "adversarial": 10,
+      "suppressed": 2
+    },
+    {
+      "original": 5,
+      "adversarial": 4,
+      "suppressed": 1
+    },
+    {
+      "original": 6,
+      "adversarial": 4,
+      "suppressed": 2
+    },
+    {
+      "original": 10,
+      "adversarial": 6,
+      "suppressed": 4
+    },
+    {
+      "original": 7,
+      "adversarial": 7,
+      "suppressed": 0
+    },
+    {
+      "original": 5,
+      "adversarial": 4,
+      "suppressed": 1
+    },
+    {
+      "original": 8,
+      "adversarial": 5,
+      "suppressed": 3
+    },
+    {
+      "original": 10,
+      "adversarial": 6,
+      "suppressed": 4
+    },
+    {
+      "original": 11,
+      "adversarial": 8,
+      "suppressed": 3
+    },
+    {
+      "original": 14,
+      "adversarial": 11,
+      "suppressed": 3
+    },
+    {
+      "original": 10,
+      "adversarial": 8,
+      "suppressed": 2
+    }
+  ],
+  "0.07": [
+    {
+      "original": 8,
+      "adversarial": 1,
+      "suppressed": 7
+    },
+    {
+      "original": 6,
+      "adversarial": 3,
+      "suppressed": 3
+    },
+    {
+      "original": 8,
+      "adversarial": 5,
+      "suppressed": 3
+    },
+    {
+      "original": 8,
+      "adversarial": 6,
+      "suppressed": 2
+    },
+    {
+      "original": 13,
+      "adversarial": 6,
+      "suppressed": 7
+    },
+    {
+      "original": 10,
+      "adversarial": 7,
+      "suppressed": 3
+    },
+    {
+      "original": 9,
+      "adversarial": 6,
+      "suppressed": 3
+    },
+    {
+      "original": 9,
+      "adversarial": 5,
+      "suppressed": 4
+    },
+    {
+      "original": 9,
+      "adversarial": 5,
+      "suppressed": 4
+    },
+    {
+      "original": 7,
+      "adversarial": 5,
+      "suppressed": 2
+    },
+    {
+      "original": 7,
+      "adversarial": 6,
+      "suppressed": 1
+    },
+    {
+      "original": 8,
+      "adversarial": 6,
+      "suppressed": 2
+    },
+    {
+      "original": 6,
+      "adversarial": 5,
+      "suppressed": 1
+    },
+    {
+      "original": 7,
+      "adversarial": 7,
+      "suppressed": 0
+    },
+    {
+      "original": 6,
+      "adversarial": 5,
+      "suppressed": 1
+    },
+    {
+      "original": 7,
+      "adversarial": 5,
+      "suppressed": 2
+    },
+    {
+      "original": 4,
+      "adversarial": 3,
+      "suppressed": 1
+    },
+    {
+      "original": 5,
+      "adversarial": 3,
+      "suppressed": 2
+    },
+    {
+      "original": 6,
+      "adversarial": 5,
+      "suppressed": 1
+    },
+    {
+      "original": 7,
+      "adversarial": 5,
+      "suppressed": 2
+    },
+    {
+      "original": 7,
+      "adversarial": 5,
+      "suppressed": 2
+    },
+    {
+      "original": 6,
+      "adversarial": 3,
+      "suppressed": 3
+    },
+    {
+      "original": 8,
+      "adversarial": 2,
+      "suppressed": 6
+    },
+    {
+      "original": 14,
+      "adversarial": 6,
+      "suppressed": 8
+    },
+    {
+      "original": 14,
+      "adversarial": 5,
+      "suppressed": 9
+    },
+    {
+      "original": 6,
+      "adversarial": 4,
+      "suppressed": 2
+    },
+    {
+      "original": 8,
+      "adversarial": 4,
+      "suppressed": 4
+    },
+    {
+      "original": 15,
+      "adversarial": 7,
+      "suppressed": 8
+    },
+    {
+      "original": 12,
+      "adversarial": 8,
+      "suppressed": 4
+    },
+    {
+      "original": 10,
+      "adversarial": 8,
+      "suppressed": 2
+    },
+    {
+      "original": 12,
+      "adversarial": 8,
+      "suppressed": 4
+    },
+    {
+      "original": 12,
+      "adversarial": 8,
+      "suppressed": 4
+    },
+    {
+      "original": 13,
+      "adversarial": 7,
+      "suppressed": 6
+    },
+    {
+      "original": 12,
+      "adversarial": 9,
+      "suppressed": 3
+    },
+    {
+      "original": 9,
+      "adversarial": 8,
+      "suppressed": 1
+    },
+    {
+      "original": 9,
+      "adversarial": 7,
+      "suppressed": 2
+    },
+    {
+      "original": 9,
+      "adversarial": 9,
+      "suppressed": 0
+    },
+    {
+      "original": 13,
+      "adversarial": 9,
+      "suppressed": 4
+    },
+    {
+      "original": 14,
+      "adversarial": 9,
+      "suppressed": 5
+    },
+    {
+      "original": 12,
+      "adversarial": 8,
+      "suppressed": 4
+    },
+    {
+      "original": 5,
+      "adversarial": 3,
+      "suppressed": 2
+    },
+    {
+      "original": 6,
+      "adversarial": 3,
+      "suppressed": 3
+    },
+    {
+      "original": 10,
+      "adversarial": 4,
+      "suppressed": 6
+    },
+    {
+      "original": 7,
+      "adversarial": 7,
+      "suppressed": 0
+    },
+    {
+      "original": 5,
+      "adversarial": 4,
+      "suppressed": 1
+    },
+    {
+      "original": 8,
+      "adversarial": 4,
+      "suppressed": 4
+    },
+    {
+      "original": 10,
+      "adversarial": 5,
+      "suppressed": 5
+    },
+    {
+      "original": 11,
+      "adversarial": 7,
+      "suppressed": 4
+    },
+    {
+      "original": 14,
+      "adversarial": 10,
+      "suppressed": 4
+    },
+    {
+      "original": 10,
+      "adversarial": 5,
+      "suppressed": 5
+    }
+  ],
+  "0.1": [
+    {
+      "original": 8,
+      "adversarial": 1,
+      "suppressed": 7
+    },
+    {
+      "original": 6,
+      "adversarial": 2,
+      "suppressed": 4
+    },
+    {
+      "original": 8,
+      "adversarial": 3,
+      "suppressed": 5
+    },
+    {
+      "original": 8,
+      "adversarial": 5,
+      "suppressed": 3
+    },
+    {
+      "original": 13,
+      "adversarial": 4,
+      "suppressed": 9
+    },
+    {
+      "original": 10,
+      "adversarial": 3,
+      "suppressed": 7
+    },
+    {
+      "original": 9,
+      "adversarial": 4,
+      "suppressed": 5
+    },
+    {
+      "original": 9,
+      "adversarial": 4,
+      "suppressed": 5
+    },
+    {
+      "original": 9,
+      "adversarial": 5,
+      "suppressed": 4
+    },
+    {
+      "original": 7,
+      "adversarial": 5,
+      "suppressed": 2
+    },
+    {
+      "original": 7,
+      "adversarial": 5,
+      "suppressed": 2
+    },
+    {
+      "original": 8,
+      "adversarial": 4,
+      "suppressed": 4
+    },
+    {
+      "original": 6,
+      "adversarial": 5,
+      "suppressed": 1
+    },
+    {
+      "original": 7,
+      "adversarial": 5,
+      "suppressed": 2
+    },
+    {
+      "original": 6,
+      "adversarial": 4,
+      "suppressed": 2
+    },
+    {
+      "original": 7,
+      "adversarial": 4,
+      "suppressed": 3
+    },
+    {
+      "original": 4,
+      "adversarial": 3,
+      "suppressed": 1
+    },
+    {
+      "original": 5,
+      "adversarial": 3,
+      "suppressed": 2
+    },
+    {
+      "original": 6,
+      "adversarial": 5,
+      "suppressed": 1
+    },
+    {
+      "original": 7,
+      "adversarial": 5,
+      "suppressed": 2
+    },
+    {
+      "original": 7,
+      "adversarial": 3,
+      "suppressed": 4
+    },
+    {
+      "original": 6,
+      "adversarial": 2,
+      "suppressed": 4
+    },
+    {
+      "original": 8,
+      "adversarial": 3,
+      "suppressed": 5
+    },
+    {
+      "original": 14,
+      "adversarial": 3,
+      "suppressed": 11
+    },
+    {
+      "original": 14,
+      "adversarial": 4,
+      "suppressed": 10
+    },
+    {
+      "original": 6,
+      "adversarial": 4,
+      "suppressed": 2
+    },
+    {
+      "original": 8,
+      "adversarial": 2,
+      "suppressed": 6
+    },
+    {
+      "original": 15,
+      "adversarial": 5,
+      "suppressed": 10
+    },
+    {
+      "original": 12,
+      "adversarial": 7,
+      "suppressed": 5
+    },
+    {
+      "original": 10,
+      "adversarial": 6,
+      "suppressed": 4
+    },
+    {
+      "original": 12,
+      "adversarial": 7,
+      "suppressed": 5
+    },
+    {
+      "original": 12,
+      "adversarial": 7,
+      "suppressed": 5
+    },
+    {
+      "original": 13,
+      "adversarial": 8,
+      "suppressed": 5
+    },
+    {
+      "original": 12,
+      "adversarial": 10,
+      "suppressed": 2
+    },
+    {
+      "original": 9,
+      "adversarial": 9,
+      "suppressed": 0
+    },
+    {
+      "original": 9,
+      "adversarial": 7,
+      "suppressed": 2
+    },
+    {
+      "original": 9,
+      "adversarial": 7,
+      "suppressed": 2
+    },
+    {
+      "original": 13,
+      "adversarial": 6,
+      "suppressed": 7
+    },
+    {
+      "original": 14,
+      "adversarial": 5,
+      "suppressed": 9
+    },
+    {
+      "original": 12,
+      "adversarial": 6,
+      "suppressed": 6
+    },
+    {
+      "original": 5,
+      "adversarial": 5,
+      "suppressed": 0
+    },
+    {
+      "original": 6,
+      "adversarial": 2,
+      "suppressed": 4
+    },
+    {
+      "original": 10,
+      "adversarial": 4,
+      "suppressed": 6
+    },
+    {
+      "original": 7,
+      "adversarial": 4,
+      "suppressed": 3
+    },
+    {
+      "original": 5,
+      "adversarial": 3,
+      "suppressed": 2
+    },
+    {
+      "original": 8,
+      "adversarial": 4,
+      "suppressed": 4
+    },
+    {
+      "original": 10,
+      "adversarial": 5,
+      "suppressed": 5
+    },
+    {
+      "original": 11,
+      "adversarial": 7,
+      "suppressed": 4
+    },
+    {
+      "original": 14,
+      "adversarial": 6,
+      "suppressed": 8
+    },
+    {
+      "original": 10,
+      "adversarial": 5,
+      "suppressed": 5
+    }
+  ]
+}
