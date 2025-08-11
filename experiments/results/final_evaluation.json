@@ -3,23 +3,23 @@
   "defense_results": {
     "none": {
       "recovery_rate": 0.0,
-      "avg_time_ms": 0.1646121342976888
+      "avg_time_ms": 0.4197475305838837
     },
     "jpeg": {
-      "recovery_rate": 12.5,
-      "avg_time_ms": 7.127658526102702
+      "recovery_rate": 45.39007092198582,
+      "avg_time_ms": 19.387219941715678
     },
     "blur": {
-      "recovery_rate": 55.35714285714286,
-      "avg_time_ms": 3.3938725789388022
+      "recovery_rate": 62.88416075650118,
+      "avg_time_ms": 8.459496962990933
     },
     "bit_reduce": {
-      "recovery_rate": 19.642857142857142,
-      "avg_time_ms": 2.605994542439779
+      "recovery_rate": 27.423167848699766,
+      "avg_time_ms": 5.27372200841027
     },
     "resize": {
-      "recovery_rate": 39.285714285714285,
-      "avg_time_ms": 3.2593727111816406
+      "recovery_rate": 49.645390070921984,
+      "avg_time_ms": 7.562200339059644
     }
   },
   "best_defense": "blur"
