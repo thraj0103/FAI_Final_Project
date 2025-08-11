@@ -1,0 +1,26 @@
+{
+  "attack_epsilon": 0.03,
+  "defense_results": {
+    "none": {
+      "recovery_rate": 0.0,
+      "avg_time_ms": 0.1646121342976888
+    },
+    "jpeg": {
+      "recovery_rate": 12.5,
+      "avg_time_ms": 7.127658526102702
+    },
+    "blur": {
+      "recovery_rate": 55.35714285714286,
+      "avg_time_ms": 3.3938725789388022
+    },
+    "bit_reduce": {
+      "recovery_rate": 19.642857142857142,
+      "avg_time_ms": 2.605994542439779
+    },
+    "resize": {
+      "recovery_rate": 39.285714285714285,
+      "avg_time_ms": 3.2593727111816406
+    }
+  },
+  "best_defense": "blur"
+}
